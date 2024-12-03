@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="EnglishCentreManagement.UserControlProject.CalculateSalary"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EnglishCentreManagement.UserControlProject"
+             mc:Ignorable="d" 
+             xmlns:uc="clr-namespace:EnglishCentreManagement.UserControlProject"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="Transparent"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+              Height="588" Width="998">
+    <Grid>
+        <Label x:Name="lalName" Content="Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="170"/>
+        <Label Content="Label" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="30" Width="170"/>
+        <Label Content="Label" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="30" Width="170"/>
+        <Label Content="Label" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="30" Width="170"/>
+        <Label Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="170"/>
+        <DataGrid HorizontalAlignment="Center" Height="176"  VerticalAlignment="Top" Width="780" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" Text="Full name" VerticalAlignment="Top" Width="224"/>
+        <TextBox HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
+        <TextBox HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
+        <TextBox HorizontalAlignment="Left" Height="30"  TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
+        <TextBox HorizontalAlignment="Left" Height="30"  TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
+        <Button x:Name="btRepaor"
+            Content="Repair"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}"
+            Style="{StaticResource MaterialDesignRaisedSecondaryButton}"
+            ToolTip="Resource name: MaterialDesignRaisedSecondaryButton" />
+        <Button x:Name="btSave"
+            Content="Save"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}"
+            Style="{StaticResource MaterialDesignRaisedSecondaryButton}"
+            ToolTip="Resource name: MaterialDesignRaisedSecondaryButton"  />
+        <Button x:Name="btLoadData"
+            Content="Load Data"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}"
+            Style="{StaticResource MaterialDesignRaisedSecondaryButton}"
+            ToolTip="Resource name: MaterialDesignRaisedSecondaryButton"  />
+        <Button
+            Content="MID"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}"
+            Style="{StaticResource MaterialDesignRaisedSecondaryButton}"
+            ToolTip="Resource name: MaterialDesignRaisedSecondaryButton"  />
+        <Button x:Name="btSearch"
+            Content="Search"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}"
+            Style="{StaticResource MaterialDesignRaisedSecondaryButton}"
+            ToolTip="Resource name: MaterialDesignRaisedSecondaryButton" />
+        <TextBox HorizontalAlignment="Left"  TextWrapping="Wrap" Text="Name or Code" VerticalAlignment="Top" Width="196" Height="32"/>
+    </Grid>
+</UserControl>

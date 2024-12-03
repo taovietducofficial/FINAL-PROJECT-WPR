@@ -1,0 +1,75 @@
+﻿<Window x:Class="EnglishCentreManagement.Dialog.YourTestInClassroom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnglishCentreManagement.Dialog" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="YourTestInClassroom" Height="600" Width="900">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Button Grid.Row="0"
+                Margin="50,0,50,0"
+                Width="200"
+                Height="30"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Background="#e0f7fa"
+                Foreground="#00bfe5"
+                Command="{Binding ShowFinalResultCommand}"
+                materialDesign:ButtonAssist.CornerRadius="25"
+                BorderBrush="Transparent"
+                IsEnabled="{Binding ControlsEnabled}"
+                ToolTip="final rusult" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="Plus"/>
+                
+                <TextBlock Text="Show final result"/>
+            </StackPanel>
+        </Button>
+        
+        <ListView ItemsSource="{Binding Tests}"
+                  Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="{Binding WeekNumber}"
+                               FontSize="50" FontWeight="Bold"/>
+
+                        <DataGrid ItemsSource="{Binding Results}"
+                                  Width="900"
+                                  AutoGenerateColumns="False"
+                                  CanUserDeleteRows="False">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="ID Test"
+                                                MinWidth="200"
+                                                IsReadOnly="True"
+                                                Binding="{Binding IdTest}"/>
+                                
+                                <DataGridTextColumn Header="Time Span"
+                                                MinWidth="200"
+                                                IsReadOnly="True"
+                                                Binding="{Binding TestIns.TimeTesting}"/>
+                                
+                                <DataGridTextColumn Header="Description"
+                                                MinWidth="400"
+                                                IsReadOnly="True"
+                                                Binding="{Binding TestIns.Description}"/>
+                                
+                                <DataGridTextColumn Header="Point"
+                                                IsReadOnly="True"
+                                                Binding="{Binding Point}"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Window>

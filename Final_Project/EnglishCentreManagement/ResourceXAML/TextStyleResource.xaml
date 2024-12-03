@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style x:Key="TextBlockStyle"  TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Montserrat "/>
+    </Style>
+
+    <Style x:Key="LableStyle" TargetType="Label">
+        <Setter Property="FontFamily" Value="Montserrat "/>
+    </Style>
+
+    <Style x:Key="TextBoxStyle" TargetType="TextBox">
+        <Setter Property="FontFamily" Value="Montserrat "/>
+    </Style>
+
+</ResourceDictionary>

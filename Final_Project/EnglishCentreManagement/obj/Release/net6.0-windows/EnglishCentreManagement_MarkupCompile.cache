@@ -1,0 +1,20 @@
+﻿EnglishCentreManagement
+
+
+winexe
+C#
+.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Release\net6.0-windows\
+EnglishCentreManagement
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\App.xaml
+4418807708
+
+12663720007
+203-56630907
+Dialog\AddNewTestDialog.xaml;Dialog\CreateScoreBoardDialog.xaml;Dialog\CreateStudentDialog.xaml;Dialog\CreateTeacherDialog.xaml;Dialog\DisplayList\DisplayAllCourseDialog.xaml;Dialog\DisplayList\DisplayRoomAvailableDialog.xaml;Dialog\DisplayList\DisplayStudentTranscripts.xaml;Dialog\DisplayList\DisplayValidTeacherDialog.xaml;Dialog\InputClassroomInformation.xaml;Dialog\ManageClassroomsDialog.xaml;Dialog\TeacherStatisticsDialog.xaml;Dialog\YourTestInClassroom.xaml;LoginWindow.xaml;MainWindow.xaml;ManagerWindow.xaml;ResourceXAML\ButtonStyleResource.xaml;ResourceXAML\ConverterResource.xaml;ResourceXAML\ItemMenuResource.xaml;ResourceXAML\Mainresource.xaml;ResourceXAML\StudentStyleResource.xaml;ResourceXAML\TextStyleResource.xaml;StudentWindow.xaml;TeacherWindow.xaml;UserControlProject\AddStudentUC.xaml;UserControlProject\AddTeacherUC.xaml;UserControlProject\BindablePasswordUC.xaml;UserControlProject\CalculateSalary.xaml;UserControlProject\CalculateSalaryUC.xaml;UserControlProject\CalendarTeachingUC.xaml;UserControlProject\ControlCancelCourseUC.xaml;UserControlProject\ControlMyOptionUC.xaml;UserControlProject\ControlMyTextBoxUC.xaml;UserControlProject\ControlRegisterForACourseUC.xaml;UserControlProject\ControlScheduleUC.xaml;UserControlProject\DataGridUC.xaml;UserControlProject\EditTeacherClassroomUC.xaml;UserControlProject\HomeUC.xaml;UserControlProject\InforTagUC.xaml;UserControlProject\MakingStatisticsForTeacherUC.xaml;UserControlProject\ManageClassroomUC.xaml;UserControlProject\ManageTeacherClassRoomUC.xaml;UserControlProject\TagUC.xaml;UserControlProject\UserInformationUC.xaml;UserControlProject\YourClassUC.xaml;
+
+True
+

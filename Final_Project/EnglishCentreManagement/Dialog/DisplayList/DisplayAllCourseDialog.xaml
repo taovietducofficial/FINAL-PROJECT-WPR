@@ -1,0 +1,45 @@
+﻿<Window x:Class="EnglishCentreManagement.Dialog.DisplayList.DisplayAllCourseDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnglishCentreManagement.Dialog.DisplayList"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Name="displayCoursesDialog"
+        Title="DisplayAllCourseDialog" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid ItemsSource="{Binding LstCourse}"
+                  Margin="10"
+                  Grid.Row="0"
+                  AutoGenerateColumns="True"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  IsReadOnly="True"
+                  HeadersVisibility="All"
+                  SelectedItem="{Binding SelectedCourse,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Button Grid.Row="1"
+                Margin="50,0,50,0"
+                Width="200"
+                Height="30"
+                VerticalAlignment="Center"
+                Background="#e0f7fa"
+                Foreground="#00bfe5"
+                Command="{Binding CommitSelectCourseCommand}"
+                CommandParameter="{Binding ElementName=displayCoursesDialog}"
+                materialDesign:ButtonAssist.CornerRadius="25"
+                BorderBrush="Transparent"
+                IsEnabled="{Binding ControlsEnabled}"
+                ToolTip="Edit" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="Plus" />
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>

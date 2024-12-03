@@ -1,0 +1,115 @@
+﻿<Window x:Class="EnglishCentreManagement.Dialog.DisplayList.DisplayStudentTranscripts"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnglishCentreManagement.Dialog.DisplayList"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="DisplayStudentTranscripts" Height="400" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <TextBlock FontSize="30"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="{Binding Result.StudentIns.NamePerson}">
+            </TextBlock>
+
+            <TextBlock FontSize="30"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="'s Transcripts">
+            </TextBlock>
+        </StackPanel>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Center"
+                        Margin="10 25 0 10">
+                <TextBlock x:Name="txblIdTest" Text="ID Classroom" Margin="10"/>
+                
+                <TextBlock Text="Name:" Margin="10"/>
+                
+                <TextBlock Text="Processing point:" Margin="10"/>
+                
+                <TextBlock Text="Final test point" Margin="10"/>
+                
+                <TextBlock Text="Final point:" Margin="10 10 10 20"/>
+                
+                <TextBlock Text="Graduated" Margin="10"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center">
+                <TextBox Width="170"
+                         VerticalAlignment="Bottom" 
+                         HorizontalAlignment="Center"
+                         Grid.Column="1" 
+                         Margin="1"
+                         IsReadOnly="True"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Text="{Binding Result.IdClassroom, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+
+                <TextBox Width="170"
+                         VerticalAlignment="Bottom" 
+                         HorizontalAlignment="Center"
+                         Grid.Column="1" 
+                         Margin="1"
+                         IsReadOnly="True"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Text="{Binding Result.StudentIns.NamePerson, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+                
+                <TextBox Width="170"
+                         VerticalAlignment="Bottom" 
+                         HorizontalAlignment="Center"
+                         Grid.Column="1" 
+                         Margin="1"
+                         IsReadOnly="True"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Text="{Binding Result.ProcessPoint, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+                
+                <TextBox Width="170"
+                         VerticalAlignment="Bottom" 
+                         HorizontalAlignment="Center"
+                         Grid.Column="1" 
+                         Margin="1"
+                         IsReadOnly="True"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Text="{Binding Result.FinalTestPoint, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+
+                <TextBox Width="170"
+                         VerticalAlignment="Bottom" 
+                         HorizontalAlignment="Center"
+                         Grid.Column="1" 
+                         Margin="1"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Text="{Binding Result.FinalPoint, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+
+                <TextBox Width="170"
+                         VerticalAlignment="Bottom" 
+                         HorizontalAlignment="Center"
+                         Grid.Column="1" 
+                         Margin="1"
+                         IsReadOnly="True"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Text="{Binding Result.UpClass, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

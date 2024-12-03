@@ -1,0 +1,418 @@
+﻿<UserControl x:Class="EnglishCentreManagement.UserControlProject.HomeUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EnglishCentreManagement.UserControlProject"
+             mc:Ignorable="d"  xmlns:uc="clr-namespace:EnglishCentreManagement.UserControlProject"
+            xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+            TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+            TextElement.FontWeight="Regular"
+            TextElement.FontSize="13"
+            TextOptions.TextFormattingMode="Ideal"
+            TextOptions.TextRenderingMode="Auto"
+            Background="Transparent"
+            FontFamily="{DynamicResource MaterialDesignFont}"
+            Name="UserInformation"
+            
+            Height="588" Width="998">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="320"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.Resources >
+            <Style TargetType="TextBlock">
+                <Setter Property="FontFamily" Value="Arial Unicode MS"></Setter>
+            </Style>
+        </Grid.Resources>
+
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="12*"/>
+                <RowDefinition Height="6*"/>
+            </Grid.RowDefinitions>
+
+            <materialDesign:Card Margin="5" Grid.Row="0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="3*"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock FontSize="25" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10" Grid.Column="0"> <Bold>Hello,</Bold>  Mark</TextBlock>
+
+                        <materialDesign:PackIcon Kind="HumanGreetingVariant" Grid.Column="1" HorizontalAlignment="left" VerticalAlignment="Center" Height="40" Width="40" Margin="5"/>
+                    </Grid>
+
+                    <TextBlock Grid.Row="1" Margin="10 1" Text="How wonderful to meet you again!" Opacity="0.8"/>
+                    <TextBlock Grid.Row="2" Margin="10 1" Text="Get ready to build up your students' future." Opacity="0.8"/>
+                </Grid>
+            </materialDesign:Card>
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="5*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Margin="10"><Bold>Today's course</Bold></TextBlock>
+
+                <ScrollViewer Grid.Row="1">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70"/>
+                            <RowDefinition Height="70"/>
+                        </Grid.RowDefinitions>
+
+                        <materialDesign:Card Grid.Row="0" Margin="5">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition Width="3*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <materialDesign:PackIcon Kind="AccountEdit" Grid.Column="0" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="2*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <TextBlock Grid.Row="0" Margin="1" Height="auto" FontSize="12"> <Bold>Writing 1: Line graph, Bar chart, Map</Bold></TextBlock>
+
+                                    <Grid Grid.Row="1"  Opacity="0.7">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Grid Grid.Column="0">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition />
+                                            </Grid.RowDefinitions>
+
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Typewriter" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="Writing" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="AlignHorizontalLeft" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="Lesson 1" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+                                        </Grid>
+
+                                        <Grid Grid.Column="1">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition/>
+                                            </Grid.RowDefinitions>
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Account" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="20 students" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="ClockOutline" Margin="1 0"  HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="120 minutes" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+
+                            </Grid>
+                        </materialDesign:Card>
+
+                        <materialDesign:Card Grid.Row="1" Margin="5">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition Width="3*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <materialDesign:PackIcon Kind="AccountTieVoice" Grid.Column="0" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="2*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <TextBlock Grid.Row="0" Margin="1" Height="auto" FontSize="12"> <Bold>Speaking 1: Speaking Task 1</Bold></TextBlock>
+
+                                    <Grid Grid.Row="1"  Opacity="0.7">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Grid Grid.Column="0">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition />
+                                            </Grid.RowDefinitions>
+
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Typewriter" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="Speaking" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="AlignHorizontalLeft" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="Lesson 1" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+                                        </Grid>
+
+                                        <Grid Grid.Column="1">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition/>
+                                            </Grid.RowDefinitions>
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Account" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="20 students" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="ClockOutline" Margin="1 0" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="120 minutes" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+
+                            </Grid>
+                        </materialDesign:Card>
+                    </Grid>
+                </ScrollViewer>
+            </Grid>
+
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.7*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="5*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Margin="10" VerticalAlignment="Center" FontFamily="Arial Unicode MS"><Bold>Your classes</Bold></TextBlock>
+
+                <ScrollViewer Grid.Row="1">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70"/>
+                            <RowDefinition Height="70"/>
+                        </Grid.RowDefinitions>
+
+                        <materialDesign:Card Grid.Row="0" Margin="5">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition Width="3*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <materialDesign:PackIcon Kind="AccountEdit" Grid.Column="0" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="2*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <TextBlock Grid.Row="0" Margin="3" Height="auto" FontSize="12"> <Bold>Foundation Class</Bold></TextBlock>
+
+                                    <Grid Grid.Row="1"  Opacity="0.7">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Grid Grid.Column="0">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition />
+                                            </Grid.RowDefinitions>
+
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Tag" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="FD001" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="BullseyeArrow" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="4.0+" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+                                        </Grid>
+
+                                        <Grid Grid.Column="1">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition/>
+                                            </Grid.RowDefinitions>
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Account" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="20 students" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="ClockOutline" Margin="1 0"  HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="5/2/2023 - 6/4/2023" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+
+                            </Grid>
+                        </materialDesign:Card>
+
+                        <materialDesign:Card Grid.Row="1" Margin="5">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition Width="3*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <materialDesign:PackIcon Kind="AccountEdit" Grid.Column="0" Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="2*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <TextBlock Grid.Row="0" Margin="3" Height="auto" FontSize="12"> <Bold>Basic Class</Bold></TextBlock>
+
+                                    <Grid Grid.Row="1"  Opacity="0.7">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Grid Grid.Column="0">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition />
+                                            </Grid.RowDefinitions>
+
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Tag" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="BS001" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="BullseyeArrow" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="3.0+" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+                                        </Grid>
+
+                                        <Grid Grid.Column="1">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition/>
+                                            </Grid.RowDefinitions>
+                                            <Grid Grid.Row="0" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="Account" Margin="1" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="20 students" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                            <Grid Grid.Row="1" Margin="3">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="2*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <materialDesign:PackIcon Kind="ClockOutline" Margin="1 0"  HorizontalAlignment="Left" VerticalAlignment="Center" />
+                                                <TextBlock Text="11/1/2023 - 12/3/2023" Grid.Column="1" Margin="1" FontSize="10" ></TextBlock>
+                                            </Grid>
+
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+
+                            </Grid>
+                        </materialDesign:Card>
+                    </Grid>
+                </ScrollViewer>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

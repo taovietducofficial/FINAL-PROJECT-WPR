@@ -1,0 +1,126 @@
+﻿<UserControl x:Class="EnglishCentreManagement.UserControlProject.EditTeacherClassroomUC"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnglishCentreManagement"
+        mc:Ignorable="d"
+        xmlns:uc="clr-namespace:EnglishCentreManagement.UserControlProject"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:usercontrol="clr-namespace:EnglishCentreManagement.UserControlProject"
+        xmlns:viewmodel="clr-namespace:EnglishCentreManagement.ViewModel"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Name="EditClassRoom"
+             Background="White"
+             d:DesignHeight="598" d:DesignWidth="1008">
+
+        <!--<Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid Grid.Column="0" Margin="10"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  HeadersVisibility="All"
+                  ItemsSource="{Binding ListStudent, UpdateSourceTrigger=PropertyChanged}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Enter_Infor.ID}"
+                                    Header="ID Student"/>
+                <DataGridTextColumn Binding="{Binding NamePerson}"
+                                    Header="Name"/>
+                <DataGridTextColumn Binding="{Binding DateBorn,StringFormat=yyyy-MM-dd}"
+                                    Header="DateBorn"/>
+                <DataGridTextColumn Binding="{Binding Gender}"
+                                    Header="Gender"/>
+                <DataGridTextColumn Binding="{Binding Address}"
+                                    Header="Address"/>
+                <DataGridTextColumn Binding="{Binding PhoneNum}"
+                                    Header="Phone number"/>
+                <DataGridTextColumn Binding="{Binding RankLevel}"
+                                    Header="Level"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+        
+    </Grid>-->
+
+    <TabControl Width="1000"
+                materialDesign:ColorZoneAssist.Background="{DynamicResource MaterialDesignCardBackground}"
+                materialDesign:ColorZoneAssist.Foreground="{DynamicResource PrimaryHueMidBrush}"
+                materialDesign:ColorZoneAssist.Mode="Custom"
+                Style="{StaticResource MaterialDesignFilledTabControl}">
+        <TabItem Header="List students">
+            <DataGrid Margin="10"
+                      AutoGenerateColumns="False"
+                      CanUserAddRows="False"
+                      HeadersVisibility="All"
+                      ItemsSource="{Binding ListStudent, UpdateSourceTrigger=PropertyChanged}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Enter_Infor.ID}"
+                                    Header="ID Student"/>
+                    <DataGridTextColumn Binding="{Binding NamePerson}"
+                                    Header="Name"/>
+                    <DataGridTextColumn Binding="{Binding DateBorn,StringFormat=yyyy-MM-dd}"
+                                    Header="DateBorn"/>
+                    <DataGridTextColumn Binding="{Binding Gender}"
+                                    Header="Gender"/>
+                    <DataGridTextColumn Binding="{Binding Address}"
+                                    Header="Address"/>
+                    <DataGridTextColumn Binding="{Binding PhoneNum}"
+                                    Header="Phone number"/>
+                    <DataGridTextColumn Binding="{Binding RankLevel}"
+                                    Header="Level"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </TabItem>
+
+        <TabItem Header="Test">
+            <ListView ItemsSource="{Binding ListTest}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Button Margin="10 5"
+                                    VerticalAlignment="Center"
+                                    Background="#e0f7fa"
+                                    Foreground="#00bfe5"
+                                    Command="{Binding ElementName=ManageClassroom,Path=DataContext.ShowCreatScoreBoardCommand}"
+                                    CommandParameter="{Binding IDTest}"
+                                    IsEnabled="{Binding ControlsEnabled}"
+                                    Style="{StaticResource MaterialDesignIconForegroundButton}"
+                                    ToolTip="Edit">
+                                <materialDesign:PackIcon Kind="ClipboardEditOutline" Height="20" Width="20"/>
+                            </Button>
+
+                            <Button Margin="10 5"
+                                    VerticalAlignment="Center"
+                                    Background="#fff3e0"
+                                    Foreground="#ef6c00"
+                                    Command="{Binding ElementName=ManageClassroom,Path=DataContext.DeleteTestCommand}"
+                                    CommandParameter="{Binding IDTest}"
+                                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                                    Style="{StaticResource MaterialDesignIconForegroundButton}"
+                                    ToolTip="Delete">
+                                <materialDesign:PackIcon Kind="DeleteForever"  Height="20" Width="20"/>
+                            </Button>
+
+                            <TextBlock Margin="30 5" VerticalAlignment="Center"
+                                           Text="{Binding IDTest}" FontSize="20" Foreground="Black" />
+
+                        </StackPanel>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </TabItem>
+
+    </TabControl>
+</UserControl>
+

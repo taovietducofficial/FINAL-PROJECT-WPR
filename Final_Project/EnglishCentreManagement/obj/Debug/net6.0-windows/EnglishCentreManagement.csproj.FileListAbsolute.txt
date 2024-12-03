@@ -1,0 +1,484 @@
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.exe
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.deps.json
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.runtimeconfig.json
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.pdb
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.AssemblyReference.cache
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.cache
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.lref
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.g.resources
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfoInputs.cache
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfo.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.CoreCompileInputs.cache
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\refint\EnglishCentreManagement.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.pdb
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.genruntimeconfig.cache
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ref\EnglishCentreManagement.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.CopyComplete
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\Mainresource.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll.config
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ButtonStyleResource.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\StudentStyleResource.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ConverterResource.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\TextStyleResource.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ItemMenuResource.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.baml
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.g.cs
+E:\1THUMUCDAIHOC\HOC KY IV\Windows programing\Final_Project_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.exe
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll.config
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.deps.json
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.runtimeconfig.json
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.pdb
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.AssemblyReference.cache
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ButtonStyleResource.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ItemMenuResource.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\TextStyleResource.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.cache
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.lref
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ConverterResource.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\Mainresource.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\StudentStyleResource.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.baml
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.g.resources
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfoInputs.cache
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfo.cs
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.CoreCompileInputs.cache
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.CopyComplete
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\refint\EnglishCentreManagement.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.pdb
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.genruntimeconfig.cache
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ref\EnglishCentreManagement.dll
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.Properties.Resources.resources
+C:\Data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.GenerateResource.cache
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.exe
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll.config
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.deps.json
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.runtimeconfig.json
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.pdb
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.AssemblyReference.cache
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ButtonStyleResource.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ItemMenuResource.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\TextStyleResource.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.cache
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.lref
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ConverterResource.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\Mainresource.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\StudentStyleResource.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.baml
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.g.resources
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.Properties.Resources.resources
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.GenerateResource.cache
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfoInputs.cache
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfo.cs
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.CoreCompileInputs.cache
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.sourcelink.json
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.CopyComplete
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\refint\EnglishCentreManagement.dll
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.pdb
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.genruntimeconfig.cache
+C:\Personal data\DoAnCNTT\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ref\EnglishCentreManagement.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.exe
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll.config
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.deps.json
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.runtimeconfig.json
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\EnglishCentreManagement.pdb
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.AssemblyReference.cache
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ButtonStyleResource.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ItemMenuResource.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\TextStyleResource.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\ManageClassroomsDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.cache
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement_MarkupCompile.lref
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\App.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\AddNewTestDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateScoreBoardDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateStudentDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\CreateTeacherDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayAllCourseDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayRoomAvailableDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayStudentTranscripts.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\DisplayList\DisplayValidTeacherDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\InputClassroomInformation.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\TeacherStatisticsDialog.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\Dialog\YourTestInClassroom.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\MainWindow.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ManagerWindow.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\ConverterResource.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\Mainresource.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ResourceXAML\StudentStyleResource.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\StudentWindow.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\TeacherWindow.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddStudentUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\AddTeacherUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\BindablePasswordUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalary.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalculateSalaryUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\CalendarTeachingUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlCancelCourseUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyOptionUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlMyTextBoxUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlRegisterForACourseUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ControlScheduleUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\DataGridUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\EditTeacherClassroomUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\HomeUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\InforTagUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\MakingStatisticsForTeacherUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageClassroomUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\ManageTeacherClassRoomUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\TagUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\UserInformationUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\UserControlProject\YourClassUC.baml
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.g.resources
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.Properties.Resources.resources
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.GenerateResource.cache
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfoInputs.cache
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.AssemblyInfo.cs
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.csproj.CoreCompileInputs.cache
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.sourcelink.json
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishC.BF038674.Up2Date
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\refint\EnglishCentreManagement.dll
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.pdb
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\EnglishCentreManagement.genruntimeconfig.cache
+C:\CNTT-K21\Winform\FInal_Project_WPR_Group5\FInal_Project_WPR_Group5\Final_Project_Group5\EnglishCentreManagement\obj\Debug\net6.0-windows\ref\EnglishCentreManagement.dll

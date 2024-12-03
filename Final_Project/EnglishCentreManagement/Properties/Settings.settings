@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EnglishCentreManagement.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DESKTOP-9IF7EV3\HUUCONG;Initial Catalog=QLTrungTamTiengAnh;User ID=sa;Password=***********;Encrypt=False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

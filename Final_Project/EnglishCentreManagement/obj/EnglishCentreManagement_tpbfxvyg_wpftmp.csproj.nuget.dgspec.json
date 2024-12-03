@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\1THUMUCDAIHOC\\HOC KY IV\\Windows programing\\Final_Project_Group5\\Final_Project_Group5\\EnglishCentreManagement\\EnglishCentreManagement.csproj": {}
+  },
+  "projects": {
+    "E:\\1THUMUCDAIHOC\\HOC KY IV\\Windows programing\\Final_Project_Group5\\Final_Project_Group5\\EnglishCentreManagement\\EnglishCentreManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1THUMUCDAIHOC\\HOC KY IV\\Windows programing\\Final_Project_Group5\\Final_Project_Group5\\EnglishCentreManagement\\EnglishCentreManagement.csproj",
+        "projectName": "EnglishCentreManagement",
+        "projectPath": "E:\\1THUMUCDAIHOC\\HOC KY IV\\Windows programing\\Final_Project_Group5\\Final_Project_Group5\\EnglishCentreManagement\\EnglishCentreManagement.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\1THUMUCDAIHOC\\HOC KY IV\\Windows programing\\Final_Project_Group5\\Final_Project_Group5\\EnglishCentreManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "System.Windows.Interactivity.WPF": {
+              "target": "Package",
+              "version": "[2.0.20525, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

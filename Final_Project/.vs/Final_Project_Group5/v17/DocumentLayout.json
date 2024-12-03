@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FInal_Project_WPR\\Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\viewmodel\\mainview\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\viewmodel\\mainview\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\resourcexaml\\itemmenuresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\resourcexaml\\itemmenuresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\database\\enterprise_infodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\database\\enterprise_infodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\resourcexaml\\image\\usericon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\resourcexaml\\image\\usericon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\usercontrolproject\\userinformationuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\usercontrolproject\\userinformationuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\resourcexaml\\image\\purplebackgroun.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\resourcexaml\\image\\purplebackgroun.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\resourcexaml\\image\\time.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\resourcexaml\\image\\time.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\resourcexaml\\image\\graduating-student.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\resourcexaml\\image\\graduating-student.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\resourcexaml\\image\\englishlogo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\resourcexaml\\image\\englishlogo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|C:\\FInal_Project_WPR\\Final_Project\\englishcentremanagement\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\englishcentremanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\englishcentremanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\englishcentremanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\englishcentremanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\viewmodel\\usercontrol\\manageteacherclassroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\viewmodel\\usercontrol\\manageteacherclassroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\viewmodel\\usercontrol\\displayroomavailableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\viewmodel\\usercontrol\\displayroomavailableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\viewmodel\\usercontrol\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\viewmodel\\usercontrol\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\viewmodel\\usercontrol\\makingstatisticsforteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\viewmodel\\usercontrol\\makingstatisticsforteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\viewmodel\\usercontrol\\manageclassroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\viewmodel\\usercontrol\\manageclassroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\usercontrolproject\\calendarteachinguc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\usercontrolproject\\calendarteachinguc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\usercontrolproject\\calendarteachinguc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\usercontrolproject\\calendarteachinguc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\interfaces\\iclassroomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\interfaces\\iclassroomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\database\\classroomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\database\\classroomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\usercontrolproject\\addstudentuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\usercontrolproject\\addstudentuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|c:\\final_project_wpr\\final_project\\englishcentremanagement\\viewmodel\\usercontrol\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49A0AA-C73F-4C10-8F58-620BF93737D8}|EnglishCentreManagement\\EnglishCentreManagement.csproj|solutionrelative:englishcentremanagement\\viewmodel\\usercontrol\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemMenuResource.xaml",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\ItemMenuResource.xaml",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ResourceXAML\\ItemMenuResource.xaml",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\ItemMenuResource.xaml",
+              "RelativeToolTip": "EnglishCentreManagement\\ResourceXAML\\ItemMenuResource.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T23:12:13.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enterprise_infoDAO.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Database\\Enterprise_infoDAO.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\Database\\Enterprise_infoDAO.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Database\\Enterprise_infoDAO.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\Database\\Enterprise_infoDAO.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserIcon.png",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\UserIcon.png",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ResourceXAML\\Image\\UserIcon.png",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\UserIcon.png",
+              "RelativeToolTip": "EnglishCentreManagement\\ResourceXAML\\Image\\UserIcon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T23:12:13.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInformationUC.xaml",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\UserInformationUC.xaml",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\UserControlProject\\UserInformationUC.xaml",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\UserInformationUC.xaml",
+              "RelativeToolTip": "EnglishCentreManagement\\UserControlProject\\UserInformationUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T23:12:13.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "purplebackgroun.png",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\purplebackgroun.png",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ResourceXAML\\Image\\purplebackgroun.png",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\purplebackgroun.png",
+              "RelativeToolTip": "EnglishCentreManagement\\ResourceXAML\\Image\\purplebackgroun.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T23:12:13.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\App.config",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\App.config",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\App.config",
+              "RelativeToolTip": "EnglishCentreManagement\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-10T23:12:13.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\MainView\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ViewModel\\MainView\\LoginViewModel.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\MainView\\LoginViewModel.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\ViewModel\\MainView\\LoginViewModel.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAADwv2oAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "time.png",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\time.png",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ResourceXAML\\Image\\time.png",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\time.png",
+              "RelativeToolTip": "EnglishCentreManagement\\ResourceXAML\\Image\\time.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T23:12:13.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "graduating-student.png",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\graduating-student.png",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ResourceXAML\\Image\\graduating-student.png",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\graduating-student.png",
+              "RelativeToolTip": "EnglishCentreManagement\\ResourceXAML\\Image\\graduating-student.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T23:12:13.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnglishLogo.png",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\EnglishLogo.png",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ResourceXAML\\Image\\EnglishLogo.png",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ResourceXAML\\Image\\EnglishLogo.png",
+              "RelativeToolTip": "EnglishCentreManagement\\ResourceXAML\\Image\\EnglishLogo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T23:12:13.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Database\\DBConnection.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\Database\\DBConnection.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Database\\DBConnection.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\Database\\DBConnection.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\LoginWindow.xaml",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "EnglishCentreManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T23:12:13.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\Properties\\Settings.settings",
+              "ToolTip": "C:\\CNTT-K21\\Winform\\FInal_Project_WPR_Group5\\FInal_Project_WPR_Group5\\Final_Project_Group5\\EnglishCentreManagement\\Properties\\Settings.settings*",
+              "RelativeToolTip": "..\\..\\CNTT-K21\\Winform\\FInal_Project_WPR_Group5\\FInal_Project_WPR_Group5\\Final_Project_Group5\\EnglishCentreManagement\\Properties\\Settings.settings*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-10T23:12:13.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnglishCentreManagement",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "RelativeToolTip": "EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T23:12:13.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnglishCentreManagement.csproj",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "RelativeToolTip": "EnglishCentreManagement\\EnglishCentreManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T23:12:13.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageTeacherClassRoomViewModel.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\ManageTeacherClassRoomViewModel.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ViewModel\\UserControl\\ManageTeacherClassRoomViewModel.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\ManageTeacherClassRoomViewModel.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\ViewModel\\UserControl\\ManageTeacherClassRoomViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DisplayRoomAvailableViewModel.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\DisplayRoomAvailableViewModel.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ViewModel\\UserControl\\DisplayRoomAvailableViewModel.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\DisplayRoomAvailableViewModel.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\ViewModel\\UserControl\\DisplayRoomAvailableViewModel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ViewModel\\UserControl\\RegisterViewModel.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\RegisterViewModel.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\ViewModel\\UserControl\\RegisterViewModel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MakingStatisticsForTeacherViewModel.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\MakingStatisticsForTeacherViewModel.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ViewModel\\UserControl\\MakingStatisticsForTeacherViewModel.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\MakingStatisticsForTeacherViewModel.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\ViewModel\\UserControl\\MakingStatisticsForTeacherViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageClassroomViewModel.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\ManageClassroomViewModel.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ViewModel\\UserControl\\ManageClassroomViewModel.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\ManageClassroomViewModel.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\ViewModel\\UserControl\\ManageClassroomViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CalendarTeachingUC.xaml.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CalendarTeachingUC.xaml",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml",
+              "RelativeToolTip": "EnglishCentreManagement\\UserControlProject\\CalendarTeachingUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T23:12:13.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IClassRoomDao.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Interfaces\\IClassRoomDao.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\Interfaces\\IClassRoomDao.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Interfaces\\IClassRoomDao.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\Interfaces\\IClassRoomDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClassRoomDao.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Database\\ClassRoomDao.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\Database\\ClassRoomDao.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\Database\\ClassRoomDao.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\Database\\ClassRoomDao.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAkwIkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddStudentUC.xaml",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\AddStudentUC.xaml",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\UserControlProject\\AddStudentUC.xaml",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\UserControlProject\\AddStudentUC.xaml",
+              "RelativeToolTip": "EnglishCentreManagement\\UserControlProject\\AddStudentUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T23:12:13.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "EnglishCentreManagement\\ViewModel\\UserControl\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\FInal_Project_WPR\\Final_Project\\EnglishCentreManagement\\ViewModel\\UserControl\\AddStudentViewModel.cs",
+              "RelativeToolTip": "EnglishCentreManagement\\ViewModel\\UserControl\\AddStudentViewModel.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA1wHAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:12:13.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

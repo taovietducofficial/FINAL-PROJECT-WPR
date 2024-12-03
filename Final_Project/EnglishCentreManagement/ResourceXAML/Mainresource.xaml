@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodelMainView="clr-namespace:EnglishCentreManagement.ViewModel.MainView"
+                    xmlns:viewmodelUsercontrol="clr-namespace:EnglishCentreManagement.ViewModel.UserControl">
+
+    <viewmodelMainView:MainViewModel x:Key="MainVM"/>
+    <viewmodelMainView:LoginViewModel x:Key="LoginVM"/>
+    <viewmodelMainView:ManagerViewModel x:Key="ManagerVM"/>
+    <viewmodelUsercontrol:ControlBarViewModel x:Key="ControlBarVM"/>
+    <viewmodelUsercontrol:ManageClassroomViewModel x:Key="ManageClassroomVM"/>
+    <viewmodelUsercontrol:YourClassViewModel x:Key="YourClassVM"/>
+
+
+
+</ResourceDictionary>

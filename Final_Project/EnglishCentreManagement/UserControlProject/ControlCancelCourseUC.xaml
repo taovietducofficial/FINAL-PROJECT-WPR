@@ -1,0 +1,97 @@
+﻿<UserControl x:Class="EnglishCentreManagement.UserControlProject.ControlCancelCourseUC"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EnglishCentreManagement.UserControlProject"
+             xmlns:MaterialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+            xmlns:uc="clr-namespace:EnglishCentreManagement.UserControlProject"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="588" d:DesignWidth="998">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Border Background="#ae6" Padding="30" Grid.Row="0">
+            <StackPanel VerticalAlignment="Center">
+                <DockPanel>
+                    <Border Height="160" Width="160" Padding="3" Background="White" CornerRadius="100" DockPanel.Dock="Top" HorizontalAlignment="Center" Margin="20 20 20 20 ">
+                        <Ellipse>
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="/ResourceXAML/Image/stamp.png" />
+                            </Ellipse.Fill>
+                        </Ellipse>
+                    </Border>
+                </DockPanel>
+                <TextBlock Text="Don't never give up your target"
+                           TextAlignment="Center"
+                           FontWeight="SemiBold"
+                           FontSize="20"
+                           Foreground="#363636"
+                           />
+                <TextBlock TextWrapping="Wrap" 
+                           FontSize="16" 
+                           TextAlignment="Center" 
+                           Foreground="#363636"
+                           Margin="0 20 0 20"
+                           Text="Persistence is the key to success"/>
+            </StackPanel>
+        </Border>
+        
+        <Border Grid.Column="1" 
+                Padding="20"
+                Background="#ffffff"
+                >
+            <Grid>
+                
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    
+                    <TextBlock Grid.Row="0" Text=" Full Name: " Style="{StaticResource text}" Margin="0 20 0 20"/>
+                    <TextBlock Grid.Row="1" Text=" ID: " Style="{StaticResource text}" Margin="0 20 0 20"/>
+                    <TextBlock Grid.Row="2" Text=" Status " Style="{StaticResource text}" Margin="0 20 0 20"/>
+                    <TextBlock Grid.Row="3" Text="ID Class" Style="{StaticResource text}" Margin="0 20 0 20"/>
+                    <TextBlock Grid.Row="4" Text="Email" Style="{StaticResource text}" Margin="0 20 0 20"/>
+                    <TextBlock Grid.Row="5" Text="Phone Number" Style="{StaticResource text}" Margin="0 20 0 20"/>
+                    <TextBlock Grid.Row="6" Text="Lastest Level" Style="{StaticResource text}" Margin="0 20 0 20"/>
+
+                    <uc:ControlMyTextBoxUC Grid.Row="0" Grid.Column="1" Hint="Nguyen Huu Dat"/>
+                    <uc:ControlMyTextBoxUC Grid.Column="1" Grid.Row="1" Hint="09821168AB"/>
+                    <uc:ControlMyTextBoxUC Grid.Column="1" Grid.Row="2" Hint="Fininshing"/>
+                    <uc:ControlMyTextBoxUC Grid.Column="1" Grid.Row="4" Hint="congnguyenhuu2703@gmail.com"/>
+                    <uc:ControlMyTextBoxUC Grid.Column="1" Grid.Row="5" Hint="0908048178"/>
+                    <uc:ControlMyTextBoxUC Grid.Column="1" Grid.Row="6" Hint="6.0"/>
+                    <uc:ControlMyTextBoxUC Grid.Column="1" Grid.Row="3" Hint="145ABCL06"/>
+                    
+                    <Grid Grid.Column="1" Grid.Row="7" Margin="0 40 0 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="1" Content="Cancel the course"  HorizontalAlignment="Left" Width="200" Style="{StaticResource buttonMainGreen}" ForceCursor="True"/>
+                        <Button Grid.Column="0" Content="Register new course" HorizontalAlignment="Left" Width="200"
+                                Style="{StaticResource buttonMain}" ForceCursor="False"/>
+                    </Grid>
+                    
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

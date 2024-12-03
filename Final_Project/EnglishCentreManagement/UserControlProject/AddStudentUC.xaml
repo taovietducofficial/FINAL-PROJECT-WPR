@@ -1,0 +1,142 @@
+﻿<UserControl x:Class="EnglishCentreManagement.UserControlProject.AddStudentUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EnglishCentreManagement.UserControlProject"
+             mc:Ignorable="d" 
+             xmlns:uc="clr-namespace:EnglishCentreManagement.UserControlProject"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="Transparent"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             Height="598" Width="1008"
+             Name="AddStudents">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Border Grid.Row="0" CornerRadius="20" Background="#fafafa" BorderBrush="#e9573b" BorderThickness="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="300"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" Grid.Column="0">
+                    <DockPanel VerticalAlignment="Top" HorizontalAlignment="Center" ForceCursor="True" Margin=" 10 5 5 0 ">
+                        <Border Width="60" Height="60" Padding="3" Background="#ffff00" CornerRadius="100" DockPanel.Dock="Top" HorizontalAlignment="Center" BorderThickness="2" BorderBrush="Black">
+                            <materialDesign:PackIcon Kind="AccountDetailsOutline" Foreground="#835cc7" HorizontalAlignment="Center" VerticalAlignment="Center" Width="40" Height="40"/>
+                        </Border>
+                    </DockPanel>
+                    <StackPanel Orientation="Vertical">
+                        <uc:TagUC Tag="PencilPlus" Width="100" Height="auto" Text="Task" FontSize="18" VerticalAlignment="Top" Margin="5"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Manage" Style="{StaticResource  txtInforMain}" Foreground="Black" Margin="0 0 5 0"/>
+                            <materialDesign:PackIcon Kind="CastEducation"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Grid.Column="1">
+                    <materialDesign:Badged VerticalAlignment="Center" Margin="10 0 0 0">
+                        <TextBox x:Name="txbUser" 
+                         Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}"
+                         materialDesign:HintAssist.Hint="Name, ID"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="300" >
+                        </TextBox>
+                    </materialDesign:Badged>
+                    
+                    <Button Width="50"
+                            Content="{materialDesign:PackIcon Kind=Search, Size=15}"
+                            Background="AntiqueWhite" Foreground="Black"
+                            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                            Margin="5 0 5 0" 
+                            Command="{Binding ShowSearch}"/>
+
+                    <Button Width="50"
+                            Content="{materialDesign:PackIcon Kind=Reload, Size=15}"
+                            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" 
+                            Foreground="white"
+                            Margin="5 0 200 0" 
+                            Command="{Binding ShowLoad}"/>
+
+                    <Button Width="65" Height="65"
+                            Content="{materialDesign:PackIcon Kind=HeadPlusOutline, Size=35}"
+                            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" 
+                            Command="{Binding ShowCreateStudentDialog}"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="1" CornerRadius="20" Background="#81d4fa" BorderBrush="#696969" BorderThickness="2" Margin="0 0 2.5 0">
+            <DataGrid x:Name="dtgStudy" FontSize="10" Margin="10" Style="{DynamicResource DataGridStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}"   Background="#fff8e1"
+                      ItemsSource="{Binding Students}" FontWeight="Bold">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" IsReadOnly="True" CanUserResize="True" 
+                                        Width="50" Binding="{Binding Enter_Infor.ID}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Name" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding NamePerson}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Gender" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding Gender}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Birth" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding DateBorn}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Phone" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding PhoneNum}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Address" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding Address}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Card" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding IdentityCard}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Level" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding RankLevel}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="User" IsReadOnly="True" CanUserResize="True" 
+                                        Width="80" Binding="{Binding Enter_Infor.UserName}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="PassWord" IsReadOnly="True" CanUserResize="True" 
+                                        Width="80" Binding="{Binding Enter_Infor.Password}" FontSize="9"/>
+                    
+                    <DataGridTextColumn Header="Email" IsReadOnly="True" CanUserResize="True" 
+                                        Width="70" Binding="{Binding Enter_Infor.Email}" FontSize="9"/>
+
+                    <DataGridTemplateColumn Header="Operations" IsReadOnly="True" Width="auto">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Style="{StaticResource gridEditButton}" 
+                                            Command="{Binding DataContext.EditCommand, ElementName=AddStudents}"
+                                            CommandParameter="{Binding Enter_Infor.ID}">
+                                        <fa:ImageAwesome Icon="PencilSquareOutline" Style="{StaticResource gridButtonIcon}"/>
+                                    </Button>
+                                    
+                                    <Button Style="{StaticResource gridDetailButton}" 
+                                            Command="{Binding DataContext.RemoveCommand, ElementName=AddStudents}"
+                                            CommandParameter="{Binding Enter_Infor.ID}" Margin="5 0 0 0 ">
+                                        <fa:ImageAwesome Icon="Eraser" Style="{StaticResource gridButtonIcon}"/>
+                                    </Button>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+
+
+    </Grid>
+</UserControl>
